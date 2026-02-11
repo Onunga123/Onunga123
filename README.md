@@ -1,29 +1,19 @@
 Hi, I’m Christopher Onunga
 
-I’m a final-year Information Sciences (IT option) student at Moi University, passionate about creating practical technology solutions that address real community needs.
+Early-career IT professional and recent BSc Information Sciences (IT Option) graduate from Moi University, passionate about creating practical technology solutions that address real community needs.
 
- My main interests are in Artificial Intelligence (AI), Machine Learning, and Full-Stack Web Development. I enjoy turning ideas into real systems that are simple, useful, and impactful.
+I work at the intersection of AI/ML, Full-Stack Web Development, IoT, and cybersecurity, building real-world systems that are simple, useful, and impactful — especially for low-resource and offline-first environments.
 
- I work with Python, JavaScript, and IoT systems, and I’m constantly learning new tools to improve my development and problem-solving skills.
+I’m proficient in Python, JavaScript, C++, Java, and experienced with React.js, Node.js, MERN stack, ESP32 IoT systems, and ML models for NLP and threat detection.
 
- I believe in using technology to make life better — especially through local, community-centered innovation.
+I believe in using technology to make life better — especially through community-centered innovation.
 
- When I’m not coding, I enjoy reading about emerging tech, building side projects, and collaborating on open-source work.
+When I’m not coding, I enjoy side projects, reading emerging tech, and contributing to open-source work.
 
-** Tech Stack**
+Tech Stack: Python, JavaScript, C++, Java | MERN Stack | React.js | Node.js | MongoDB | IoT (ESP32, Arduino) | AI/ML (Scikit-learn, NLP, Pandas, Flask)
 
-Languages: Python, JavaScript, C++, Java
+Connect With Me:
 
-Web Development: HTML, CSS, React.js, Node.js, Express.js, MongoDB
-
-AI & ML: Scikit-learn, Pandas, Flask
-
-IoT: ESP32, Arduino IDE, sensors
-
-** Connect With Me**
-
- Email: onungachristopher363@gmail.com
+Email: onungachristopher363@gmail.com
 
 LinkedIn: linkedin.com/in/christopher-onunga-3a212b226
-
-
