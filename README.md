@@ -8,8 +8,8 @@ I design and build practical technology solutions that combine machine learning,
 
 - **Offline IoT-Based Real‑Time Low‑Cost Water Quality Monitoring System** — An offline ESP32‑based water quality monitor designed for rural households (Migori County, Kenya). Key elements:
   - ESP32 WROOM microcontroller running C++/Arduino‑style firmware, using SPIFFS for local storage and AP mode to serve a local dashboard.  
-  - Sensors: TDS (Total Dissolved Solids) and DS18B20 temperature (GPIOs as configured in the prototype).  
-  - Local mobile/web dashboard served directly from the device so users can view readings without internet or cloud dependencies.  
+  - Sensors: TDS (Total Dissolved Solids) and DS18B20 temperature (GPIOs.)  
+  - Web dashboard served directly from the device so users can view readings without internet or cloud dependencies.  
   - Focus on TDS and temperature reporting against WHO‑oriented thresholds; >1,000 real readings collected during prototyping.  
   - Future directions: on‑device anomaly detection, colour‑coded alerts, mesh networking, GIS tagging, and predictive analytics.
 
