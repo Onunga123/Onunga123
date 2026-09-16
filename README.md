@@ -21,26 +21,24 @@ I design and build practical technology solutions that combine machine learning,
 
 - **pdf-qa-system** — Retrieval‑augmented Q&A for documents: PDF extraction → chunking → embeddings (SentenceTransformers) → FAISS vector store → semantic retrieval → answer extraction (RoBERTa/Hugging Face). Packaged with a Streamlit demo for exploration and evaluation.
 
-- **AIHealthTranslator** — An AI‑powered healthcare language support system to reduce language barriers between providers and patients. Focuses on English ↔ Kiswahili translation (Luo planned), sentiment analysis, and speech support. Built around a FastAPI backend with a modular architecture separating frontend, backend services, language models, and supporting scripts. Intended for locally relevant, accessible healthcare communication tools. (https://github.com/Onunga123/AIHealthTranslator)
+- **AIHealthTranslator** — An AI‑powered healthcare language support system to reduce language barriers between providers and patients. Focuses on English ↔ Kiswahili translation (Luo planned), sentiment analysis, and speech support. Built around a FastAPI backend with a modular architecture separating frontend, backend services, language models, and supporting scripts. Intended for locally relevant, accessible healthcare communication tools.
+  
+- **Bruteforce-Detector** — AI‑powered login threat detection (Flask + Isolation Forest) for anomaly detection: log parsing, automatic IP blocking, email/SMS alerts (Twilio), and an admin interface for threat review and response. 
 
-- **Bruteforce-Detector** — AI‑powered login threat detection (Flask + Isolation Forest) for anomaly detection: log parsing, automatic IP blocking, email/SMS alerts (Twilio), and an admin interface for threat review and response. (https://github.com/Onunga123/Bruteforce-Detector)
+- **financial-sentiment-analyzer** — Scrapes and analyzes live financial headlines using FinBERT and TextBlob, with an interactive Streamlit dashboard, data exports, and visualizations to track sentiment for tickers such as AAPL, TSLA, and GOOGL. 
 
-- **financial-sentiment-analyzer** — Scrapes and analyzes live financial headlines using FinBERT and TextBlob, with an interactive Streamlit dashboard, data exports, and visualizations to track sentiment for tickers such as AAPL, TSLA, and GOOGL. (https://github.com/Onunga123/financial-sentiment-analyzer)
-
-- **ms365-ai-assistant-mcp** — A Model Context Protocol (MCP) server that integrates LLM assistants with Microsoft 365 services (email, calendar, Planner, Teams, OneDrive, SharePoint). Provides secure OAuth integration, audit logging with PII redaction, rate limiting, tool exposure across M365 categories, and operational health monitoring. (https://github.com/Onunga123/ms365-ai-assistant-mcp)
+- **ms365-ai-assistant-mcp** — A Model Context Protocol (MCP) server that integrates LLM assistants with Microsoft 365 services (email, calendar, Planner, Teams, OneDrive, SharePoint). Provides secure OAuth integration, audit logging with PII redaction, rate limiting, tool exposure across M365 categories, and operational health monitoring. 
 
 ## Contributors & collaborations
 
 - jo-oseeph/BomaFlow — Contributor project: an all‑in‑one rental operations platform (properties, tenants, payments, maintenance, listings). (https://github.com/jo-oseeph/BomaFlow)  
 - jo-oseeph/ENTELIX — Contributor project with a public site at https://entelix.vercel.app (https://github.com/jo-oseeph/ENTELIX)
 
-If any attribution or phrasing is incorrect, tell me which repo or file to cite and I will refine the language.
-
 ## Core strengths
 
 - IoT & embedded systems: model and firmware integration for constrained devices (ESP32, edge Linux), low‑power sensing, offline dashboards, and hardware integration.  
 - Full‑stack engineering: React, Next.js, Node.js, secure APIs, authentication & RBAC, dashboards, and deployment.  
-- Machine learning engineering: model design, training, evaluation, optimization and deployment (PyTorch).  
+- Machine learning engineering: model design, training, evaluation, optimization and deployment.  
 - Retrieval & RAG: FAISS vector stores, embeddings, and scalable document search.  
 - Automation & integrations: n8n, Power Automate, Twilio, Brevo, and orchestration for operational workflows.  
 - Production readiness & MLOps: CI/CD, monitoring, model/version management, and observability.
