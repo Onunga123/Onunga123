@@ -58,5 +58,3 @@ Python · PyTorch · OpenCV · FAISS · FastAPI · Node.js · Next.js · React �
 - GitHub: https://github.com/Onunga123  
 - Email: onungachristopher363@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/christopher-onunga-3a212b226/
-
-If you’d like, I can produce a one‑page résumé, a short portfolio page, or open a PR to add badges and repository topics.
