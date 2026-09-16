@@ -2,7 +2,7 @@
 
 I design and build practical technology solutions that combine machine learning, IoT and embedded systems, full‑stack web development, and automation; I move prototypes into production by integrating models, services, and workflows so solutions are reliable, observable, and maintainable. I ship end‑to‑end systems including model development and evaluation, optimized inference at the edge, secure APIs and web apps, and automated operational workflows. My experience covers both machine learning and non‑ML engineering — full‑stack applications, integrations, automation, and IoT solutions — with a strong focus on operational reliability and measurable user impact.
 
-## Representative work (what each entails)
+## Representative work
 
 - **Help Desk System** — A full institutional helpdesk platform with an integrated HR application portal and a public‑facing applicant portal. Features include role‑based authentication, ticket management, file attachments, a searchable knowledge base, asset tracking, reporting and analytics, email (Brevo) and in‑app notifications, and exportable reports. The system is designed for secure deployment and operational monitoring in institutional environments.
 
